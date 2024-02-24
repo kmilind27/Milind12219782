@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milind12219782  
+- 👋 Hi, I’m @Milind  
 - 🌱 I’m currently learning PYTHON, HTML, CSS, JAVASCRIPT
 - 📫 LinkedIn- linkedin.com/in/kumar-milind-34b740257
 
